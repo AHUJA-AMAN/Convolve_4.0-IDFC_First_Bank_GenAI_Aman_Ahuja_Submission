@@ -1,10 +1,5 @@
----
-title: Intelligent Document AI for Invoice Field Extraction
-
----
 
 # Intelligent Document AI for Invoice Field Extraction
-> **Developed by Team: Aman Ahuja** > **Members**: Aman Ahuja and Sparsh Jain
 # Setup and Execution Guide
 
 Please follow these instructions carefully to ensure the environment is configured correctly.
