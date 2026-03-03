@@ -1,0 +1,30 @@
+{
+    "doc_id": "173483259_2_pg24",
+    "fields": {
+        "dealer_name": "Choudhary Tractors",
+        "model_name": null,
+        "horse_power": 24,
+        "asset_cost": 268555.0,
+        "signature": {
+            "present": true,
+            "bbox": [
+                728,
+                1172,
+                840,
+                1241
+            ]
+        },
+        "stamp": {
+            "present": true,
+            "bbox": [
+                620,
+                1219,
+                899,
+                1286
+            ]
+        }
+    },
+    "confidence": 0.6499999999999999,
+    "processing_time_sec": 27.86633610725403,
+    "cost_estimate_usd": 0
+}

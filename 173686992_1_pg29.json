@@ -1,0 +1,30 @@
+{
+    "doc_id": "173686992_1_pg29",
+    "fields": {
+        "dealer_name": "Guru Kirpa Automobiles",
+        "model_name": null,
+        "horse_power": 85,
+        "asset_cost": 8150000,
+        "signature": {
+            "present": true,
+            "bbox": [
+                594,
+                1213,
+                720,
+                1337
+            ]
+        },
+        "stamp": {
+            "present": true,
+            "bbox": [
+                563,
+                1186,
+                749,
+                1344
+            ]
+        }
+    },
+    "confidence": 0.65,
+    "processing_time_sec": 41.24021792411804,
+    "cost_estimate_usd": 0
+}

@@ -1,0 +1,30 @@
+{
+    "doc_id": "173177534_1_pg37",
+    "fields": {
+        "dealer_name": "PrOp.O.S.AUTOMOBILES PRIVATE LIMITED",
+        "model_name": "MF 251 32 02",
+        "horse_power": 42,
+        "asset_cost": 590000,
+        "signature": {
+            "present": true,
+            "bbox": [
+                794,
+                1055,
+                929,
+                1119
+            ]
+        },
+        "stamp": {
+            "present": true,
+            "bbox": [
+                669,
+                1025,
+                966,
+                1145
+            ]
+        }
+    },
+    "confidence": 0.55,
+    "processing_time_sec": 58.69953274726868,
+    "cost_estimate_usd": 0
+}
